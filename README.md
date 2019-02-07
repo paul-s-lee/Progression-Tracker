@@ -16,3 +16,9 @@ Features:
 4) reset recorded time
 5) Load saved time to time label
 
+Version 1.2:
+Updates:
+-- Bug Fixes --
+1) Accidental data corruption during startup fixed
+2) Built-in stopwatch minute overflow to exceed 59 fixed
+
