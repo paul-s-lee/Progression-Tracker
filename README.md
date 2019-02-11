@@ -1,4 +1,6 @@
 # Progression-Tracker
+
+# Progression Tracker is currently under maintenance. A bug was found that prevented the stopwatch from incrementing correctly. The developer hopes to release it anytime soon. Thank you.
 Simple progression tracking application developed via the windows form c# framework
 
 Progression Tracker a simle progression tracking application that uses the c# windows form framework as a means to implement a GUI.
